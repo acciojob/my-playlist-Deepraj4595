@@ -22,6 +22,15 @@ h2{
 }
 .player_one{
 	text-align: center;
+	background-color: white;
+	padding: 5px;
+	border-radius: 10px;
+}
+.player_two{
+	text-align: center;
+	background-color: white;
+	padding: 5px;
+	border-radius: 10px;
 }
 video{
 	width: 630px;
